@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1576004373 source:c:\users\ss\desktop\programming project\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1575643315 source:c:\users\ss\desktop\programming project\programming project\headertest1.c
+
+1575643478 source:c:\users\ss\desktop\programming project\programming project\headertest.c
+
+1575644184 c:\users\ss\desktop\programming project\programming project\headertest1.h
+	"headerTest.h"
+	"headerTest2.h"
+
+1575644212 c:\users\ss\desktop\programming project\programming project\headertest.h
+
+1575644212 c:\users\ss\desktop\programming project\programming project\headertest2.h
+
+1575922268 c:\users\ss\desktop\programming project\programming project\phonebookfunc.h
+
+1575652623 source:c:\users\ss\desktop\programming project\programming project\adding.c
+
+1575827749 source:c:\users\ss\desktop\programming project\programming project\addentry.c
+
+1576005850 source:c:\users\ss\desktop\programming project\programming project\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576019654 source:c:\users\awael\onedrive\desktop\programming project\programming project\programming project\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576019609 source:c:\users\awael\onedrive\desktop\programming project\programming project\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576019643 c:\users\awael\onedrive\desktop\programming project\programming project\programming project\phonebookfunc.h
+
+1576069828 source:c:\users\hassan\desktop\programming project\programming project\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576069411 c:\users\hassan\desktop\programming project\programming project\programming project\phonebookfunc.h
+
+1576069828 source:c:\users\hassan\desktop\programming project\programming project\programming project\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576139666 source:c:\users\ss\desktop\programming project\programming project\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576139440 c:\users\ss\desktop\programming project\programming project\programming project\phonebookfunc.h
+
+1576139645 source:c:\users\ss\desktop\programming project\programming project\programming project\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576139666 source:c:\users\awael\onedrive\desktop\prog\programming project\programming project\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576139440 c:\users\awael\onedrive\desktop\prog\programming project\programming project\programming project\phonebookfunc.h
+
+1576165465 source:c:\users\awael\onedrive\desktop\hassan changes\programming project\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576139440 c:\users\awael\onedrive\desktop\hassan changes\programming project\programming project\phonebookfunc.h
+
+1576165815 source:c:\users\awael\onedrive\desktop\hassan changes\programming project\programming project\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576182391 source:c:\users\awael\onedrive\desktop\hassan changes\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576182391 c:\users\awael\onedrive\desktop\hassan changes\programming project\phonebookfunc.h
+
+1576182391 source:c:\users\awael\onedrive\desktop\hassan changes\programming project\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576193258 source:c:\users\ss\desktop\programming project\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576193353 source:c:\users\ss\desktop\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576193084 c:\users\ss\desktop\programming project\phonebookfunc.h
+
+1576942154 source:c:\users\ss\desktop\global variable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576941826 c:\users\ss\desktop\global variable\phonebookfunc.h
+
+1576941865 source:c:\users\ss\desktop\global variable\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576520658 source:c:\users\awael\onedrive\desktop\global variable\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576448183 source:c:\users\awael\onedrive\desktop\global variable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576446832 c:\users\awael\onedrive\desktop\global variable\phonebookfunc.h
+
+1576945004 source:c:\users\awael\onedrive\desktop\global variable final final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576938226 c:\users\awael\onedrive\desktop\global variable final final\phonebookfunc.h
+
+1576948981 source:c:\users\awael\onedrive\desktop\global variable final final\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576945004 source:c:\users\ss\desktop\global variable final final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phoneBookFunc.h"
+
+1576938226 c:\users\ss\desktop\global variable final final\phonebookfunc.h
+
+1577030106 source:c:\users\ss\desktop\global variable final final\phonebookfunc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
